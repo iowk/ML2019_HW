@@ -1,2 +1,3 @@
 # ML2019_HW
- machine learning homework
+ Homeworks for the machine learning course.
+ See task descriptions in the folders.
